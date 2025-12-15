@@ -15,4 +15,4 @@ criar tabela alunos_grau(
 );
 
 MCeDER
-https://app.diagrams.net/#G1jXpBUBPLchhlEvLifXyfB92p0DekcAu8#%7B%22pageId%22%3A%22zWfnfw9T4VqtJBUPqrr7%22%7D
+https://drive.google.com/file/d/1jXpBUBPLchhlEvLifXyfB92p0DekcAu8/view?usp=sharing
